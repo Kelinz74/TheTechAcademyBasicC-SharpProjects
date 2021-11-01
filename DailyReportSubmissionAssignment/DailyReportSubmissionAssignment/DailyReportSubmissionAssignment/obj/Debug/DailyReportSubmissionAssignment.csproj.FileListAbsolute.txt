@@ -1,7 +1,0 @@
-C:\Users\Kelinz\Desktop\Basic_C#_Programs\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.exe.config
-C:\Users\Kelinz\Desktop\Basic_C#_Programs\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.exe
-C:\Users\Kelinz\Desktop\Basic_C#_Programs\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.pdb
-C:\Users\Kelinz\Desktop\Basic_C#_Programs\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Kelinz\Desktop\Basic_C#_Programs\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.exe
-C:\Users\Kelinz\Desktop\Basic_C#_Programs\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.pdb
-C:\Users\Kelinz\Desktop\Basic_C#_Programs\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.csproj.AssemblyReference.cache
