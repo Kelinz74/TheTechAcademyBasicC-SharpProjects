@@ -1,0 +1,6 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.pdb
