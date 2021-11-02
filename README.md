@@ -26,3 +26,13 @@
 ### [Boolean Logic Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/BooleanLogicSubmissionAssignment/BooleanLogicSubmissionAssignment)
 - An application setting up a basic approval program for car insurance.
 - It will ask the applicant some questions and return a "true" or "false" at the end to determine whether or not the applicant qualified for car insurance.
+
+### [Branching Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/BranchingSubmissionAssignment/BranchingSubmissionAssignment)
+- A program to create a console-based application for getting a shipping quote for a package.
+- The first line of the program gives a welcome message.
+- The user is then prompted for an input of the weight of the package.
+- With an if statement if the input for the weight is greater then 50, an error message will display and the program will end.
+- If package is under 50 the user is prompted for inputs of height, lenght, and width.  
+- If the total dimensions is greater than 50 an error message will display.  
+- If under 50 the results will be calculated using weight * width * height * length / 100.  
+- The result of that calculation is the quote displayed to the user as a dollar amount with an itemized lise of the inputs.
