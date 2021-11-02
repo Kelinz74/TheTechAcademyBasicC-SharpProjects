@@ -36,3 +36,10 @@
 - If the total dimensions is greater than 50 an error message will display.  
 - If under 50 the results will be calculated using weight * width * height * length / 100.  
 - The result of that calculation is the quote displayed to the user as a dollar amount with an itemized lise of the inputs.
+
+### [Do/While Statement Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/BooleanDoWhileConsoleApp/ConsoleAppSubmissionAssignment)
+- Created a console app that includes a Do/While Statement with a Switch statement for options. 
+- Options are to choose a number of 1 - 5 with and a final default which will take you back to choosing from 1 - 5 with a while loop. 
+- The Boolean variable starts as false.  Until it is changed to true by choosing a number 1-5. 
+- Each number 1 - 5 has its own unique statement that will be printed to the console. 
+- If 6 or greater is chosen, the default will present the question again of choosing 1 - 5 until 1 - 5 is chosen. 
