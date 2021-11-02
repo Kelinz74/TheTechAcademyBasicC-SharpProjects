@@ -59,9 +59,7 @@ namespace BranchingSubmissionAssignment
                     string us = Quote.ToString("C", new CultureInfo("en-US"));
 
                     //printed information and total cost to the console
-                    Console.WriteLine("\nWelcome to Package Express. Please follow the instructions below.\nPlease enter the package " +
-                        "weight:\n" + weightPackage + "\n\nPlease enter" + "the package width:\n" + wPackage + "\n\nPlease enter the package " +
-                        "height\n" + hPackage + "\n\nPlease enter the package length:\n" + lPackage + "\n\nYour estimated total for " +
+                    Console.WriteLine("\nYour estimated total for " +
                         "shipping this package is: " + us + "\nThank you");
                     Console.ReadLine();
                 }
