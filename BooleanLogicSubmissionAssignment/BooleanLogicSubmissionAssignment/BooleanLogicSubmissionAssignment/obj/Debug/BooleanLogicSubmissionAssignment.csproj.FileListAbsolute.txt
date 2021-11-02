@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.pdb
