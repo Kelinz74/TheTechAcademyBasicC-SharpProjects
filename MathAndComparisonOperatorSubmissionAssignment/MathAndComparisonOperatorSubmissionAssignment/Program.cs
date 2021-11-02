@@ -10,7 +10,7 @@ namespace MathAndComparisonOperatorSubmissionAssignment
     {
         static void Main(string[] args)
         {
-            //upon starting the program the first that that will print to the console is "Anonymous Income Comparison Program" from the variable Title with the string value.
+            //upon starting the program the first thing that will print to the console is "Anonymous Income Comparison Program" from the variable Title with the string value.
             String Title = "Anonymous Income Comparison Program";
             Console.WriteLine(Title);
             Console.ReadLine();
