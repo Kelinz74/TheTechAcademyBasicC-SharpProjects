@@ -34,7 +34,7 @@ namespace ConsoleAppSubmissionAssignment
                         isGuessed = true;
                         break;
                     case 3:
-                        Console.WriteLine("Fart!!");
+                        Console.WriteLine("Always in the middle!!");
                         isGuessed = true;
                         break;
                     case 4:
