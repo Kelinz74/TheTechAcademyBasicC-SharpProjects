@@ -16,3 +16,9 @@
 - Takes an input from the user, divides it by 12.5, then prints the result to the console.
 - Takes an input from the user, checks if it is greater than 50, then prints the true/false result to the console.
 - Takes an input from the user, divides it by 7, then prints the remainder to the console.
+
+### [Math and Comparison Operator Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MathAndComparisonOperatorSubmissionAssignment)
+- Take the input of Person 1 for their Hourly Rate and hours worked.
+- Take the same information from Person Two.
+- Display the Annual Salary of Person 1 and Person 2.
+- Compare if Person 1 makes more than Person 2. 
