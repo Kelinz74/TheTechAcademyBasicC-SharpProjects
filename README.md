@@ -43,3 +43,9 @@
 - The Boolean variable starts as false.  Until it is changed to true by choosing a number 1-5. 
 - Each number 1 - 5 has its own unique statement that will be printed to the console. 
 - If 6 or greater is chosen, the default will present the question again of choosing 1 - 5 until 1 - 5 is chosen. 
+
+### [String Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/StringAssignment/StringAssignment)
+- A string assignment demonstrating string Concatenation. 
+- Using the .ToUpper method. 
+- Using the StringBuilder Class to be able to make changes to a string. 
+- In C# string values in themselves are not mutable and take up memory if not in a StringBuilder object.
