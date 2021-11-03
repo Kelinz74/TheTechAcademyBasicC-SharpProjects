@@ -4,3 +4,4 @@ C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppS
 C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.csproj.CoreCompileInputs.cache
 C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.exe
 C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\BooleanDoWhileConsoleApp\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.csproj.AssemblyReference.cache
