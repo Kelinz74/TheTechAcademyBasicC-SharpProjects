@@ -49,3 +49,11 @@
 - Using the .ToUpper method. 
 - Using the StringBuilder Class to be able to make changes to a string. 
 - In C# string values in themselves are not mutable and take up memory if not in a StringBuilder object.
+
+### [Console App Array Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/ConsoleAppArraySubmissionAssignment/ConsoleAppArraySubmissionAssignment)
+- Created a one-dimensional Array of strings with a question that would ask the user to input a int value of 1 through 4 to represent the value of the index for the array.  
+- It would print the value for the index of the array.  
+- Also created a one-dimensional array of integers.  
+- Asking the user again to input a int value representing the value of the index which would then print the value of that index to the console.  
+- Created a list of strings.  
+- An input from the user representing the index of the list will print to the console the value of that index in the list.
