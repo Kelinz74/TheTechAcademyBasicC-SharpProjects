@@ -89,3 +89,11 @@
 **Part 6.** 
 - created a list of strings that has at least two identical strings in the list.  
 - Created a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
+
+### [Console App Strings and Integers Submission Assignment(try/catch)](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/ConsoleAppStringsAndIntegersSubmissionAssignment)
+- Created a list of integers. 
+- Asked the user for a input to divide each number in the list by.  
+- Created a loop that takes each interger in the list, divides it by the number the user entered, and displays the result to the screen.  
+- Tested for 0 division error and if the input was a string error.  
+- Then set up a try/catch statement to catch these errors. 
+-  Looped back around with a while loop to ask again for an input that can be used in the division code.
