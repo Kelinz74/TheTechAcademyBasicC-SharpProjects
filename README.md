@@ -57,3 +57,35 @@
 - Asking the user again to input a int value representing the value of the index which would then print the value of that index to the console.  
 - Created a list of strings.  
 - An input from the user representing the index of the list will print to the console the value of that index in the list.
+
+### [Console App Six Part Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/SixPartAssignmentListsandArrays/ConsoleAppSixPartAssignment)
+
+**Part 1.** 
+- Set up a one-dimensional array of strings with a question for user input. 
+- Created a loop that iterates through each string in the array and adds the user's text input to the end of each string.  
+- Created a loop that prints off each string in the array on a serparate line.  
+
+**Part 2.** 
+- Created an infinite loop demonstration.  
+- Provided the proper codeing to fix the infinit loop so that it will execute properly.  
+
+**Part 3.**  
+- Created a loop where the comparison that's used to determine whether to continue iterating the loop is a **"<"** operator.  
+- Created a loop where the comparison that's used to determine whether to continue iterating the loop is a **"<="** operator.  
+
+**Part 4.**  
+- Created a list of strings where each item in the list is unique.  
+- Asked the user to input text to search for in the list.  
+- Created a loop that iterates through the list and then displays the index of the list that contains matching text on the screen.  
+- Added code to the loop to check if the suer put in text that isn't on the list and, if they did, tells the user their input is not on the list.  
+- Once a match has been found the loop will stop.  
+
+**Part 5.**   
+- Created a list of strings that has at least two identical strings in the list.  
+- Asked the user to input text to search for in the list.  
+- Created a loop that iterates through the list and then displays the idices of the items matching the user input.  
+- Added code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.  
+
+**Part 6.** 
+- created a list of strings that has at least two identical strings in the list.  
+- Created a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
