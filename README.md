@@ -105,3 +105,11 @@
 - In the main() program, there is a WriteLine method statement asking the user for a number they want to do the math operations on.  
 - Made calles from the Main() program for each method in turn, passing the user input to the methods.  
 - Displaying all results from the methods to the consol.
+
+### [Main Method Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MainMethodSubmissionAssignment)
+- Created a class, in that class created  method that will take in an integer.  
+- Created a math operation for the integer  then returned the answer as an integer.  
+- Created two more methods of the same name utilizing method overflow with different values passed into each.  
+- The second method is a decimal value and the third method a string.  
+- The string value was converted to an integer for a multiplication calcution.  
+- The result was return as an integer value.
