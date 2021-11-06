@@ -97,3 +97,11 @@
 - Tested for 0 division error and if the input was a string error.  
 - Then set up a try/catch statement to catch these errors. 
 -  Looped back around with a while loop to ask again for an input that can be used in the division code.
+
+### [Calling Methods Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/CallingMethodsSubmissionAssignment)
+- Created a class, in that class created three methods, each of which will take one integer parameter in and return an integer.  
+- The methods do some math operations on the received parameter.  
+- The class is in a separate .cs file in the application.  
+- In the main() program, there is a WriteLine method statement asking the user for a number they want to do the math operations on.  
+- Made calles from the Main() program for each method in turn, passing the user input to the methods.  
+- Displaying all results from the methods to the consol.
