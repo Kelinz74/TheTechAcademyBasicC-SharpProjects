@@ -113,3 +113,12 @@
 - The second method is a decimal value and the third method a string.  
 - The string value was converted to an integer for a multiplication calcution.  
 - The result was return as an integer value.
+
+### [Method Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MethodSubmissionAssignment)
+- Created a class.  
+- In that class, created a method that takes two integers are parameters.  
+- One of the parameters were optional as an input being passed in as 0.  
+- WIth requests in the console, asked the user to iinput two numbers one at a time.  
+- The second input could be left black if the user didn't want to input a second number.  
+- Made the call to the method in the class, passing in the one or two numbers entered.  
+- If the second number was black, it was automaticaly supplied with a 0 as the value as stated from above.
