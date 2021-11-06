@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.pdb
