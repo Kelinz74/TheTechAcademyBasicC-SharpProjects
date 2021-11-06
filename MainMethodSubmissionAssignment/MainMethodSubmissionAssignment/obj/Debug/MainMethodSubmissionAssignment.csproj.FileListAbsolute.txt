@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.pdb
