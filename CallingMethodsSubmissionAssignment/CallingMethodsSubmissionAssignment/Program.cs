@@ -15,7 +15,7 @@ namespace CallingMethodsSubmissionAssignment
 
             //a Writeline method printing to the console a question for the user to make a input.  The input being saved to the variable inputnumber.  The variable inputnumber is also applied to
             //public int inputnumber { get; set; } in the MathClass as a global paramater for all the methods in the class.
-            Console.WriteLine("Please give a number to be used in three mathematical calculations against the number 55 with a bonus figure of the square root of the number you choose.");
+            Console.WriteLine("Please give a number to be used in three mathematical calculations against the number 55 with a bonus figure\n of the square root of the number you choose.");
             mathClass.inputnumber = Convert.ToInt32(Console.ReadLine());
 
             //calls for the methods subMath, addMath, multiMath.
