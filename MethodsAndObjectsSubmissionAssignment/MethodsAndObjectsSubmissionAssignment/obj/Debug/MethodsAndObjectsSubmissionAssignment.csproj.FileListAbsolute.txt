@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\MethodsAndObjectsSubmissionAssignment\MethodsAndObjectsSubmissionAssignment\bin\Debug\MethodsAndObjectsSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\MethodsAndObjectsSubmissionAssignment\MethodsAndObjectsSubmissionAssignment\bin\Debug\MethodsAndObjectsSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\MethodsAndObjectsSubmissionAssignment\MethodsAndObjectsSubmissionAssignment\bin\Debug\MethodsAndObjectsSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\MethodsAndObjectsSubmissionAssignment\MethodsAndObjectsSubmissionAssignment\obj\Debug\MethodsAndObjectsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\MethodsAndObjectsSubmissionAssignment\MethodsAndObjectsSubmissionAssignment\obj\Debug\MethodsAndObjectsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\MethodsAndObjectsSubmissionAssignment\MethodsAndObjectsSubmissionAssignment\obj\Debug\MethodsAndObjectsSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\MethodsAndObjectsSubmissionAssignment\MethodsAndObjectsSubmissionAssignment\obj\Debug\MethodsAndObjectsSubmissionAssignment.pdb
