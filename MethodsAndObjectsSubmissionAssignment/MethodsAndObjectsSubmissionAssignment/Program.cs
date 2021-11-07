@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjectsSubmissionAssignment
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         { 
             //Instantiate and initialize the Class Employee
-            Employee employee = new Employee();
+            Employee employee = new Employee() { FirstName = "Sample", LastName = "Studant"};            
             
-            //Calling two methods from employee and from the inherited class Persons through employee.
-            employee.iDentification();
+            //Calling method SayName from employee class which inherites the method from the Person class.            
             employee.SayName();
             Console.ReadLine();
         }

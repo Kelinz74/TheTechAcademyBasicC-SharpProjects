@@ -8,13 +8,13 @@ namespace MethodsAndObjectsSubmissionAssignment
 {
     public class Person
     {
-        string FirstName = "Sample";
-        string LastName = "Studant";
+        //two string variable reciving a value(s) from the instantate/initalize on the Main()
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         
         //Public void method when called will print to the console the WriteLine statment
         public void SayName()
-        {
-            
+        {            
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
     }
