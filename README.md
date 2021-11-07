@@ -136,3 +136,11 @@
 - The class is instantiated in the main program.  
 - Also created a method with output parameters, an overload method.  
 - Declared a class to be static.
+
+### [Methods And Objects Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MethodsAndObjectsSubmissionAssignment)
+- Created a Class called Person and gave it two properties, each of data type string.  
+- Gave this class a void method called SayName() that takes no parameters and simply prints to the console the full name of an employee.  
+- Created another class called Employee and had it inherit from the Person class.  
+- Gave the Employee class a peroperty called Id and had it set to the data type int.   
+- Within the Main method, instantiated and initialized an Employee class.  
+- Called the superclass method SayName on the employee object.
