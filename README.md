@@ -129,3 +129,10 @@
 - In the main() method of the console app, instantiated the class.  
 - Called the method in the class passing in tow numbers.  
 - Called the method in the class specifying the parameters by name.
+
+### [Class Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/ClassSubmissionAssignment)
+- Created a class and in that class, created a void method that outputs an integer.  
+- The input to be divided is from an input provided by the user and will be divided by two.  
+- The class is instantiated in the main program.  
+- Also created a method with output parameters, an overload method.  
+- Declared a class to be static.
