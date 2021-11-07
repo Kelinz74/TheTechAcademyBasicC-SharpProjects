@@ -122,3 +122,10 @@
 - The second input could be left black if the user didn't want to input a second number.  
 - Made the call to the method in the class, passing in the one or two numbers entered.  
 - If the second number was black, it was automaticaly supplied with a 0 as the value as stated from above.
+
+### [Method Class Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MethodClassSubmissionAssignment)
+- Created a class.  
+- In that class, created a void method that takes two integers as parameters with the method performing a math calculation on the first integer and displying the second integer to the screen.  
+- In the main() method of the console app, instantiated the class.  
+- Called the method in the class passing in tow numbers.  
+- Called the method in the class specifying the parameters by name.
