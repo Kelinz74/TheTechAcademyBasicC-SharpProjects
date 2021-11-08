@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.pdb
