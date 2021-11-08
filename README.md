@@ -144,3 +144,11 @@
 - Gave the Employee class a peroperty called Id and had it set to the data type int.   
 - Within the Main method, instantiated and initialized an Employee class.  
 - Called the superclass method SayName on the employee object.
+
+### [Abstract Class Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/AbstractClassSubmissionAssignment)
+- Created an abstract class called Person with two string properties.  
+- Created a  method named SayName().  
+- Created a class called Employee to inherit from the person class.  
+- Implemented the SayName method inside of the employee class.  
+- In the Main() method, instantiated the Empolyee object with firstName sample and lastName Student.  
+- Called the SayName() method on the object.
