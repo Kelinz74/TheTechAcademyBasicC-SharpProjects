@@ -11,14 +11,15 @@ namespace PolymorphismSubmissionAssignment
         static void Main(string[] args)
         {
             //instantiate class employee passing in the properties firstName and lastName
-            Employee employee = new Employee() { firstName = "Sample", lastName = "Student", quit = "I quit" };            
+            Employee employee = new Employee() { firstName = "Sample", lastName = "Student"};
+            IQuittable insertnamehere = new Employee();
 
             //call to the method SayName
             employee.SayName();
 
 
-            //Call to the method Quit
-            employee.Quit(employee);
+            //Call to the method Quit            
+            insertnamehere.Quit(employee);
             Console.ReadLine();
         }
         

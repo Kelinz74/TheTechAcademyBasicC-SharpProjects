@@ -1,0 +1,2 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.CoreCompileInputs.cache
