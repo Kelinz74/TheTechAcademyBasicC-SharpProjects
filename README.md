@@ -152,3 +152,8 @@
 - Implemented the SayName method inside of the employee class.  
 - In the Main() method, instantiated the Empolyee object with firstName sample and lastName Student.  
 - Called the SayName() method on the object.
+
+### [Polymorphism Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/PolymorphismSubmissionAssignment)
+- Created an interface called IQuittable and had it define a void method called Quit().  
+- The Employee class inherits that interface and implements the quit() method.  
+- Using polymorphism to create an object of type IQuittable and call the quit() method on it.
