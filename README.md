@@ -160,3 +160,9 @@
 
 ### [Operators Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/OperatorsSubmissionAssignment)
 - Overload the "==" operator so it checks if two Empolayee objects are equal by comparing thier Id Property.
+
+### [Parsing Enums Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/ParsingEnumsSubmissionAssignment) 
+- Created an enum for the days of the week.  
+- Prompted the suer to enter the current day of the week. 
+- Assign the value to the variable of the enum data type.  
+- Wrapped the statement ina try/catch block, had the catch print to the console "Please enter an accual day of the week."
