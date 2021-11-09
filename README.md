@@ -157,3 +157,6 @@
 - Created an interface called IQuittable and had it define a void method called Quit().  
 - The Employee class inherits that interface and implements the quit() method.  
 - Using polymorphism to create an object of type IQuittable and call the quit() method on it.
+
+### [Operators Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/OperatorsSubmissionAssignment)
+- Overload the "==" operator so it checks if two Empolayee objects are equal by comparing thier Id Property.
