@@ -166,3 +166,7 @@
 - Prompted the suer to enter the current day of the week. 
 - Assign the value to the variable of the enum data type.  
 - Wrapped the statement ina try/catch block, had the catch print to the console "Please enter an accual day of the week."
+
+### [Struct Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/StructAssignment)
+- Created a struct called Number and gave it the property Amount, the data type is decimal.  
+- In the Main() method, created an object of data type Number and assign an amount to it.
