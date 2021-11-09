@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.pdb
