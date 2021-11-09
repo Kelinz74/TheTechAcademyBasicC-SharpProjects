@@ -170,3 +170,10 @@
 ### [Struct Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/StructAssignment)
 - Created a struct called Number and gave it the property Amount, the data type is decimal.  
 - In the Main() method, created an object of data type Number and assign an amount to it.
+
+### [Lambda Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/LambdaSubmissionAssignment)
+- In the main() method, created a list of 10 employees, Each employee having a first and last name as well as an id number.  
+- Two of the employees have the same first name(Joe).  
+- Using a foreach loop, created a new list of all employees with the first name "Joe".  
+- Perfomed the same action again with a lambda expression.  
+- Using a lambda expression, made a list of all employees with an id number greater than 5.
