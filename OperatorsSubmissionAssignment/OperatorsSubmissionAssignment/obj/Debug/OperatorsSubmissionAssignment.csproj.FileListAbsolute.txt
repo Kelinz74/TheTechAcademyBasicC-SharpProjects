@@ -1,2 +1,7 @@
 C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.AssemblyReference.cache
 C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.pdb

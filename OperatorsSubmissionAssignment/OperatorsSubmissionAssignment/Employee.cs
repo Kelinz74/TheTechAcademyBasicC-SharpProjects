@@ -6,8 +6,37 @@ using System.Threading.Tasks;
 
 namespace OperatorsSubmissionAssignment
 {
-    class Employee
+    public class Employee
     {
         public int Id { get; set; }
+        //overload for the == operator comparing two properties
+        public static bool operator ==(Employee emp1, Employee emp2)
+        {
+            if (emp1.Id == emp2.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+        //overload for the != operator comparing two properties
+        public static bool operator !=(Employee emp1, Employee emp2)
+        {
+            if (emp1.Id != emp2.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
+
+
+
+
 }
