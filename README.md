@@ -182,3 +182,8 @@
 - Ask a user for an input.  
 - Log the input to a text file using the System.IO file.writealltext method.  
 - Display to the consol the inputed information from the saved text file using the System.lO.file.ReadAllText method printing to the console using the system.console.WriteLine method.
+
+### [Date/Time Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/DateTimeSubmissionAssignment)
+- created a DateTime.now method to print the current time and date that the program is ran.  
+- Included an input for the user asking for a number.  
+- Used the number to calculate how many hours from now what time and date it will be.
