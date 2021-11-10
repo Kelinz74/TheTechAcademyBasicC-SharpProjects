@@ -188,7 +188,7 @@
 - Included an input for the user asking for a number.  
 - Used the number to calculate how many hours from now what time and date it will be.
 
-### [Constructor Submission Assignment]()
+### [Constructor Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/ConstructorSubmissionAssignment)
 - Created a const variable. 
 - Created a variable using the keyword "var". 
 - Demonstrated chaining two constructors together.
