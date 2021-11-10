@@ -177,3 +177,8 @@
 - Using a foreach loop, created a new list of all employees with the first name "Joe".  
 - Perfomed the same action again with a lambda expression.  
 - Using a lambda expression, made a list of all employees with an id number greater than 5.
+
+### [Input Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/InputAssignment)
+- Ask a user for an input.  
+- Log the input to a text file using the System.IO file.writealltext method.  
+- Display to the consol the inputed information from the saved text file using the System.lO.file.ReadAllText method printing to the console using the system.console.WriteLine method.
