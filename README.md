@@ -187,3 +187,8 @@
 - created a DateTime.now method to print the current time and date that the program is ran.  
 - Included an input for the user asking for a number.  
 - Used the number to calculate how many hours from now what time and date it will be.
+
+### [Constructor Submission Assignment]()
+- Created a const variable. 
+- Created a variable using the keyword "var". 
+- Demonstrated chaining two constructors together.
