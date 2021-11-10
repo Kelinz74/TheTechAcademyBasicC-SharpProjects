@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.pdb
