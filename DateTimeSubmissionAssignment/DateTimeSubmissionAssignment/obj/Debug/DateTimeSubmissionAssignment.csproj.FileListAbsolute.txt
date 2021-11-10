@@ -1,0 +1,7 @@
+C:\Users\Kelinz\Documents\C#.Net\New folder\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe.config
+C:\Users\Kelinz\Documents\C#.Net\New folder\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.pdb
+C:\Users\Kelinz\Documents\C#.Net\New folder\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelinz\Documents\C#.Net\New folder\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\Kelinz\Documents\C#.Net\New folder\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.pdb
