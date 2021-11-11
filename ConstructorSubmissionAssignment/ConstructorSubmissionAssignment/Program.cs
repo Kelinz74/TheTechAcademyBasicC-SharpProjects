@@ -37,7 +37,7 @@ namespace ConstructorSubmissionAssignment
 
             //2. Create a variable using the keyword "var".//
 
-            //a var variable containing a boolean value. var is the multi use tool for variables as it can represent many different data types.
+            //a var variable containing a boolean value. var is the multi use tool for variables as it can equal many different data types.
             var number = true;
 
             //an if statement to show the variable being used
