@@ -192,3 +192,10 @@
 - Created a const variable. 
 - Created a variable using the keyword "var". 
 - Demonstrated chaining two constructors together.
+
+### [Try/Catch Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/TryCatchAssignment)
+- Asked the user if they had a birthday this year yet and then for thier age.  
+- Displayed the year the user was born with a datetime calculation.  
+- Used a try/catch for any exceptions.  
+- Displayed appropriate error message if the user enters zero or negative numbers.  
+- Also displayed a gernaeral message for all other exceptions.
