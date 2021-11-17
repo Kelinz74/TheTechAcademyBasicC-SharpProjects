@@ -199,3 +199,10 @@
 - Used a try/catch for any exceptions.  
 - Displayed appropriate error message if the user enters zero or negative numbers.  
 - Also displayed a gernaeral message for all other exceptions.
+
+### [ASP.NET MVC Entity Framework Submission Assignment(Car Insurance)](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/CarInsurance)
+- Created an ASP.NET MVC Entity Framework web page that is for an Auto Insuracne company.  
+- Starts with a base of 50 dollars a month quote.  
+- There are if statements to check for age of the customer, make and model of the vehicle, year of the vehicle, speeding tickets, DUI and if Full Coverage is needed.  
+- Calculations in if/else statements for each item.  
+- Then saved after the calcualtion is done to a database that shows the customer information and the quote of the cost of insurance.
