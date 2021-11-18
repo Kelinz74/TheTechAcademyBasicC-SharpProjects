@@ -206,3 +206,6 @@
 - There are if statements to check for age of the customer, make and model of the vehicle, year of the vehicle, speeding tickets, DUI and if Full Coverage is needed.  
 - Calculations in if/else statements for each item.  
 - Then saved after the calcualtion is done to a database that shows the customer information and the quote of the cost of insurance.
+
+### [Entity Framework Code-First app](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/FinalChallengeSubmissionAssignment)
+- Created a basic Entity Framework Code-First app that creates a basic Student database and adds one student.
