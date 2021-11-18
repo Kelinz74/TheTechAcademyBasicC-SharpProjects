@@ -2,9 +2,9 @@
  The repository is for C# and .net course projects and assignments.
  
  ### [Writing and Running Code in C# Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/blob/main/Program.cs)
-- The assignemtn was to build a welcome screen for new accounting software your company is developing.
+- The assignment was to build a welcome screen for new accounting software your company is developing.
 - When the program is run, Welcome to Acme Accounting Systems is printed in the console.
-- Below that, Remember, we're "accounting" on you! is printed to the console.
+- Below that, "Remember, we're "accounting" on you!" is printed to the console.
 
 ### [Daily Report Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/DailyReportSubmissionAssignment)
 - A questionnaire asking students for their daily submission like a status report. 
@@ -32,10 +32,10 @@
 - The first line of the program gives a welcome message.
 - The user is then prompted for an input of the weight of the package.
 - With an if statement if the input for the weight is greater then 50, an error message will display and the program will end.
-- If package is under 50 the user is prompted for inputs of height, lenght, and width.  
+- If package is under 50 the user is prompted for inputs of height, length, and width.  
 - If the total dimensions is greater than 50 an error message will display.  
 - If under 50 the results will be calculated using weight * width * height * length / 100.  
-- The result of that calculation is the quote displayed to the user as a dollar amount with an itemized lise of the inputs.
+- The result of that calculation is the quote displayed to the user as a dollar amount with an itemized list of the inputs.
 
 ### [Do/While Statement Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/BooleanDoWhileConsoleApp/ConsoleAppSubmissionAssignment)
 - Created a console app that includes a Do/While Statement with a Switch statement for options. 
@@ -63,11 +63,11 @@
 **Part 1.** 
 - Set up a one-dimensional array of strings with a question for user input. 
 - Created a loop that iterates through each string in the array and adds the user's text input to the end of each string.  
-- Created a loop that prints off each string in the array on a serparate line.  
+- Created a loop that prints off each string in the array on a separate line.  
 
 **Part 2.** 
 - Created an infinite loop demonstration.  
-- Provided the proper codeing to fix the infinit loop so that it will execute properly.  
+- Provided the proper coding to fix the infinite loop so that it will execute properly.  
 
 **Part 3.**  
 - Created a loop where the comparison that's used to determine whether to continue iterating the loop is a **"<"** operator.  
@@ -83,7 +83,7 @@
 **Part 5.**   
 - Created a list of strings that has at least two identical strings in the list.  
 - Asked the user to input text to search for in the list.  
-- Created a loop that iterates through the list and then displays the idices of the items matching the user input.  
+- Created a loop that iterates through the list and then displays the indices of the items matching the user input.  
 - Added code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.  
 
 **Part 6.** 
@@ -93,7 +93,7 @@
 ### [Console App Strings and Integers Submission Assignment(try/catch)](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/ConsoleAppStringsAndIntegersSubmissionAssignment)
 - Created a list of integers. 
 - Asked the user for a input to divide each number in the list by.  
-- Created a loop that takes each interger in the list, divides it by the number the user entered, and displays the result to the screen.  
+- Created a loop that takes each integer in the list, divides it by the number the user entered, and displays the result to the screen.  
 - Tested for 0 division error and if the input was a string error.  
 - Then set up a try/catch statement to catch these errors. 
 -  Looped back around with a while loop to ask again for an input that can be used in the division code.
@@ -103,7 +103,7 @@
 - The methods do some math operations on the received parameter.  
 - The class is in a separate .cs file in the application.  
 - In the main() program, there is a WriteLine method statement asking the user for a number they want to do the math operations on.  
-- Made calles from the Main() program for each method in turn, passing the user input to the methods.  
+- Made calls from the Main() program for each method in turn, passing the user input to the methods.  
 - Displaying all results from the methods to the consol.
 
 ### [Main Method Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MainMethodSubmissionAssignment)
@@ -111,21 +111,21 @@
 - Created a math operation for the integer  then returned the answer as an integer.  
 - Created two more methods of the same name utilizing method overflow with different values passed into each.  
 - The second method is a decimal value and the third method a string.  
-- The string value was converted to an integer for a multiplication calcution.  
+- The string value was converted to an integer for a multiplication calculation.  
 - The result was return as an integer value.
 
 ### [Method Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MethodSubmissionAssignment)
 - Created a class.  
 - In that class, created a method that takes two integers are parameters.  
 - One of the parameters were optional as an input being passed in as 0.  
-- WIth requests in the console, asked the user to iinput two numbers one at a time.  
+- With requests in the console, asked the user to input two numbers one at a time.  
 - The second input could be left black if the user didn't want to input a second number.  
 - Made the call to the method in the class, passing in the one or two numbers entered.  
-- If the second number was black, it was automaticaly supplied with a 0 as the value as stated from above.
+- If the second number was black, it was automatically supplied with a 0 as the value as stated from above.
 
 ### [Method Class Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/MethodClassSubmissionAssignment)
 - Created a class.  
-- In that class, created a void method that takes two integers as parameters with the method performing a math calculation on the first integer and displying the second integer to the screen.  
+- In that class, created a void method that takes two integers as parameters with the method performing a math calculation on the first integer and displaying the second integer to the screen.  
 - In the main() method of the console app, instantiated the class.  
 - Called the method in the class passing in tow numbers.  
 - Called the method in the class specifying the parameters by name.
@@ -141,7 +141,7 @@
 - Created a Class called Person and gave it two properties, each of data type string.  
 - Gave this class a void method called SayName() that takes no parameters and simply prints to the console the full name of an employee.  
 - Created another class called Employee and had it inherit from the Person class.  
-- Gave the Employee class a peroperty called Id and had it set to the data type int.   
+- Gave the Employee class a property called Id and had it set to the data type int.   
 - Within the Main method, instantiated and initialized an Employee class.  
 - Called the superclass method SayName on the employee object.
 
@@ -150,7 +150,7 @@
 - Created a  method named SayName().  
 - Created a class called Employee to inherit from the person class.  
 - Implemented the SayName method inside of the employee class.  
-- In the Main() method, instantiated the Empolyee object with firstName sample and lastName Student.  
+- In the Main() method, instantiated the Employee object with firstName sample and lastName Student.  
 - Called the SayName() method on the object.
 
 ### [Polymorphism Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/PolymorphismSubmissionAssignment)
@@ -159,13 +159,13 @@
 - Using polymorphism to create an object of type IQuittable and call the quit() method on it.
 
 ### [Operators Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/OperatorsSubmissionAssignment)
-- Overload the "==" operator so it checks if two Empolayee objects are equal by comparing thier Id Property.
+- Overload the "==" operator so it checks if two Employee objects are equal by comparing their Id Property.
 
 ### [Parsing Enums Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/ParsingEnumsSubmissionAssignment) 
 - Created an enum for the days of the week.  
 - Prompted the suer to enter the current day of the week. 
 - Assign the value to the variable of the enum data type.  
-- Wrapped the statement ina try/catch block, had the catch print to the console "Please enter an accual day of the week."
+- Wrapped the statement in a try/catch block, had the catch print to the console "Please enter an actual day of the week."
 
 ### [Struct Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/StructAssignment)
 - Created a struct called Number and gave it the property Amount, the data type is decimal.  
@@ -175,13 +175,13 @@
 - In the main() method, created a list of 10 employees, Each employee having a first and last name as well as an id number.  
 - Two of the employees have the same first name(Joe).  
 - Using a foreach loop, created a new list of all employees with the first name "Joe".  
-- Perfomed the same action again with a lambda expression.  
+- Performed the same action again with a lambda expression.  
 - Using a lambda expression, made a list of all employees with an id number greater than 5.
 
 ### [Input Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/InputAssignment)
 - Ask a user for an input.  
 - Log the input to a text file using the System.IO file.writealltext method.  
-- Display to the consol the inputed information from the saved text file using the System.lO.file.ReadAllText method printing to the console using the system.console.WriteLine method.
+- Display to the console the inputted information from the saved text file using the System.lO.file.ReadAllText method printing to the console using the system.console.WriteLine method.
 
 ### [Date/Time Submission Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/DateTimeSubmissionAssignment)
 - created a DateTime.now method to print the current time and date that the program is ran.  
@@ -194,18 +194,18 @@
 - Demonstrated chaining two constructors together.
 
 ### [Try/Catch Assignment](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/TryCatchAssignment)
-- Asked the user if they had a birthday this year yet and then for thier age.  
+- Asked the user if they had a birthday this year yet and then for their age.  
 - Displayed the year the user was born with a datetime calculation.  
 - Used a try/catch for any exceptions.  
 - Displayed appropriate error message if the user enters zero or negative numbers.  
-- Also displayed a gernaeral message for all other exceptions.
+- Also displayed a general message for all other exceptions.
 
 ### [ASP.NET MVC Entity Framework Submission Assignment(Car Insurance)](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/CarInsurance)
-- Created an ASP.NET MVC Entity Framework web page that is for an Auto Insuracne company.  
+- Created an ASP.NET MVC Entity Framework web page that is for an Auto Insurance company.  
 - Starts with a base of 50 dollars a month quote.  
 - There are if statements to check for age of the customer, make and model of the vehicle, year of the vehicle, speeding tickets, DUI and if Full Coverage is needed.  
 - Calculations in if/else statements for each item.  
-- Then saved after the calcualtion is done to a database that shows the customer information and the quote of the cost of insurance.
+- Then saved after the calculation is done to a database that shows the customer information and the quote of the cost of insurance.
 
 ### [Entity Framework Code-First app](https://github.com/Kelinz74/TheTechAcademyBasicC-SharpProjects/tree/main/FinalChallengeSubmissionAssignment)
 - Created a basic Entity Framework Code-First app that creates a basic Student database and adds one student.
